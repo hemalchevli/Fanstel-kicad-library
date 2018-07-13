@@ -102,7 +102,7 @@
   )
 
   (module Fanstel_modules:BC832-BC832 (layer F.Cu) (tedit 200000) (tstamp 5B4858C3)
-    (at 122.4 82.9)
+    (at 127.9 77.2)
     (path /5B45F739)
     (attr smd)
     (fp_text reference U1 (at 4.3 -9.7) (layer F.SilkS)
@@ -167,7 +167,7 @@
   )
 
   (module Fanstel_modules:BT832-BT832L (layer F.Cu) (tedit 200000) (tstamp 5B4858EF)
-    (at 122 113.1)
+    (at 128.3 113.4)
     (path /5B45F78D)
     (attr smd)
     (fp_text reference U2 (at 6.2 -21.9) (layer F.SilkS)
@@ -251,7 +251,7 @@
   )
 
   (module Fanstel_modules:BC832-BC832 (layer F.Cu) (tedit 200000) (tstamp 5B485917)
-    (at 140.2 83)
+    (at 140.2 77.2)
     (path /5B45F74E)
     (attr smd)
     (fp_text reference U3 (at 4.3 -9.7) (layer F.SilkS)
@@ -316,13 +316,13 @@
   )
 
   (module Fanstel_modules:BM832-1-BM832 (layer F.Cu) (tedit 200000) (tstamp 5B48594A)
-    (at 153.5 86.2)
+    (at 154.6 83.3)
     (path /5B45F763)
     (attr smd)
-    (fp_text reference U4 (at 4.5 -15.9) (layer F.SilkS)
+    (fp_text reference U4 (at 5.7 1) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value BM832 (at 5 0.9) (layer F.SilkS)
+    (fp_text value BM832 (at 5.1 -16) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 0.00762 -0.00254) (end 0.00762 -0.00508) (layer F.SilkS) (width 0.00762))
@@ -395,7 +395,7 @@
   )
 
   (module Fanstel_modules:BT832X-BT832X (layer F.Cu) (tedit 200000) (tstamp 5B48597A)
-    (at 147.5 119.9)
+    (at 151.9 120.1)
     (path /5B45F7A9)
     (attr smd)
     (fp_text reference U5 (at 6.1 -29.3) (layer F.SilkS)
@@ -476,7 +476,7 @@
   )
 
   (module Fanstel_modules:BM840-1-BM840 (layer F.Cu) (tedit 200000) (tstamp 5B4859C2)
-    (at 172.4 86.7)
+    (at 170.2 84.1)
     (path /5B45F778)
     (attr smd)
     (fp_text reference U6 (at 5.1 -16) (layer F.SilkS)
@@ -576,7 +576,7 @@
   )
 
   (module Fanstel_modules:BT840-BT840 (layer F.Cu) (tedit 200000) (tstamp 5B485A07)
-    (at 168.9 115.2)
+    (at 174 117.1)
     (path /5B45F7CF)
     (attr smd)
     (fp_text reference U7 (at 6.2 -22) (layer F.SilkS)
