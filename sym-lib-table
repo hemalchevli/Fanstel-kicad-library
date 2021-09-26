@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Fanstel-modules)(type Legacy)(uri ${KIPRJMOD}/Fanstel-modules.lib)(options "")(descr ""))
+)
